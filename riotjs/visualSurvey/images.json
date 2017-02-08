@@ -1,0 +1,91 @@
+{
+  "description" : "Pick one you fancy...",
+  "initialImageSet" : [1,2,3,4],
+  "images": [
+    {
+        "imageId": 1,
+        "nextImageSet": [4,5],
+        "filePath": "images\\yellow.jpg",
+        "keywords": ["yellow", "banana-soft", "tropical"]
+    },
+    {
+        "imageId": 2,
+        "nextImageSet": [5,6],
+        "filePath": "images\\hot.jpg",
+        "keywords": ["hot", "sun", "burning", "charred"]
+    },
+    {
+        "imageId": 3,
+        "nextImageSet": [4,6],
+        "filePath": "images\\sausage.jpg",
+        "keywords": ["delicious", "spicy", "meaty", "silly"]
+    },
+    {
+        "imageId": 4,
+        "nextImageSet": [7,9],
+        "filePath": "images\\tulips.jpg",
+        "keywords": ["bright", "cheery", "optimistic"]
+    },
+    {
+        "imageId": 5,
+        "nextImageSet": [8,9,10],
+        "filePath": "images\\hydrangeas.jpg",
+        "keywords": ["seductive", "fecund", "alluring", "fragrant"]
+    },
+    {
+        "imageId": 6,
+        "nextImageSet": [8,10],
+        "filePath": "images\\chrysanthemum.jpg",
+        "keywords": ["seductive", "trippy", "attention-grabbing"]
+    },
+    {
+        "imageId": 7,
+        "nextImageSet": [11,12,13],
+        "filePath": "images\\breakout.jpg",
+        "keywords": ["kooky", "jazzy", "gamine"]
+    },
+    {
+        "imageId": 8,
+        "nextImageSet": [13,14],
+        "filePath": "images\\samegirl.jpg",
+        "keywords": ["crazy", "kooky", "fruity", "delirious"]
+    },
+    {
+        "imageId": 9,
+        "nextImageSet": [11,12,13,14],
+        "filePath": "images\\parker.jpg",
+        "keywords": ["indie", "underrated", "cult", "comedic"]
+    },
+    {
+        "imageId": 10,
+        "nextImageSet": [12,11],
+        "filePath": "images\\brown.jpg",
+        "keywords": ["leading", "power-crazed", "intransigent"]
+    },
+    {
+        "imageId": 11,
+        "filePath": "images\\blackcat.png",
+        "keywords": ["cat","hipster","stoic figure"]
+    },
+    {
+        "imageId": 12,
+        "filePath": "images\\jellyfish.jpg",
+        "keywords": ["slimy creature", "spineless danger", "lethal jellyfish"]
+    },
+    {
+        "imageId": 13,
+        "filePath": "images\\daschund.jpg",
+        "keywords": ["dog", "daschund", "grumpy creature"]
+    },
+    {
+        "imageId": 14,
+        "filePath": "images\\dogcat.jpg",
+        "keywords": ["harmony", "loving creature", "animal", "unified presence"]
+    },
+    {
+        "imageId": 15,
+        "filePath": "images\\sausage.jpg",
+        "keywords": ["sausage", "dead-meat", "edible object"]
+    }
+  ]
+}

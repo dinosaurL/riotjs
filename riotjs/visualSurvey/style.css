@@ -1,0 +1,29 @@
+/* Styles go here */
+
+body {
+  font-size: 20px;
+  border: 0;
+}
+
+imageChoices summary {
+  max-width: 90%;
+  margin: 5% auto;
+}
+
+imageChoices {
+  display : block;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  list-style-type: none;
+  padding: .2em 0;
+  float: left;
+}
+
+label {
+  cursor: pointer;
+}
